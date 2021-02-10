@@ -1,0 +1,13 @@
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.exe
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.deps.json
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.dll
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\bin\Debug\netcoreapp3.1\InvertirNumeroTresCifras.pdb
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.csprojAssemblyReference.cache
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.dll
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.pdb
+C:\Users\Ivanesa\source\repos\InvertirNumeroTresCifras\InvertirNumeroTresCifras\obj\Debug\netcoreapp3.1\InvertirNumeroTresCifras.genruntimeconfig.cache
